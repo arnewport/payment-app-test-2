@@ -40,7 +40,7 @@ app.get('/download-files', async (req, res) => {
 
         // Specify remote directory and local directory
         const remoteDir = '/io.isfs.ftp.prod/letpam/inbound/oldfiles'; // Full path to inbound directory
-        const localDir = './downloads'; // Local directory to store downloaded files
+        const localDir = path.join(process.env.USERPROFILE, 'Downloads'); // Save files to your Downloads folder
 
         // Ensure the local directory exists
         if (!fs.existsSync(localDir)) {
