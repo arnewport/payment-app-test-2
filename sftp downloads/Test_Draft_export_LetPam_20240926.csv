@@ -1,0 +1,12 @@
+Company Number,Location Number,Deposit ID,Deposit Name,Deposit Timestamp,Post Date,Sent Username,Scan Username,Scanner Serial Number,User Amount,Check ID,Amount,Check Number,Auxiliary On Us,On Us,Reason Code Description,Held Amount,File Name
+C504732,40050473237,79815061,name of deposit,20240830 12:52:38,20240901,testletpaminc,testletpaminc,,-123.45,556752550,-123.45,,,,,,
+C504732,40050473237,79815331,name of deposit,20240830 13:04:03,20240901,testletpaminc,testletpaminc,,-123.45,556753437,-123.45,,,,,,
+C504732,40050473237,79815548,name of deposit,20240830 13:21:01,20240901,testletpaminc,testletpaminc,,-123.45,556755078,-123.45,,,,,,
+C504732,40050473237,79816491,deposit1,20240830 14:02:13,20240901,testletpaminc,testletpaminc,,-123.45,556760643,-123.45,,,,,,
+C504732,40050473237,80096490,name of deposit,20240911 18:23:47,20240912,testletpaminc,testletpaminc,,1.00,557893506,1.00,,,,,,
+C504732,40050473237,80096519,name of deposit,20240911 18:29:09,20240912,testletpaminc,testletpaminc,,-1.00,557893773,-1.00,,,,,,
+C504732,40050473237,80096520,name of deposit,20240911 18:29:42,20240912,testletpaminc,testletpaminc,,1.00,557893790,1.00,,,,,,
+C504732,40050473237,80096524,name of deposit,20240911 18:30:13,20240912,testletpaminc,testletpaminc,,1.00,557893815,1.00,,,,,,
+C504732,40050473237,80096528,name of deposit,20240911 18:31:02,20240912,testletpaminc,testletpaminc,,1.00,557893914,1.00,,,,,,
+C504732,40050473237,80096559,name of deposit,20240911 18:35:56,20240912,testletpaminc,testletpaminc,,-1.00,557894330,-1.00,,,,,,
+C504732,40050473237,80096570,name of deposit,20240911 18:36:40,20240912,testletpaminc,testletpaminc,,1.00,557894455,1.00,,,,,,

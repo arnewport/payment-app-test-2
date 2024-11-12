@@ -39,7 +39,7 @@ app.get('/download-files', async (req, res) => {
         await sftp.connect(sftpConfig);
 
         // Specify remote directory and local directory
-        const remoteDir = '/io.isfs.ftp.prod/letpam/inbound/oldfiles'; // Full path to inbound directory
+        const remoteDir = '/io.isfs.ftp.prod/letpam/outbound/test'; // Full path to inbound directory
         const localDir = path.join(process.env.USERPROFILE, 'Downloads'); // Save files to your Downloads folder
 
         // Ensure the local directory exists
@@ -78,10 +78,10 @@ const ACHTestTemplate = {
     "dda": "1029384756",
     "accountType": "C",
     "locationId": "5047323",
-    "amount": "1.00",
+    "amount": "3.00",
     "depositName": "name of deposit",
-    "creditOrDebit": "C",
-    "entryClassCode": "TEL",
+    "creditOrDebit": "D",
+    "entryClassCode": "CCD",
     "checkSerialNumber": null,
     "addenda": "this is the addenda",
     "traceNumber": "1",

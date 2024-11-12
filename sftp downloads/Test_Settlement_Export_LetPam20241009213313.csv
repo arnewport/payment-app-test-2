@@ -1,0 +1,6 @@
+Company Name,Company Number,Location Name,Location Number,Transaction Amount,Deposit ID,Batch Number,Bank Routing Number,Bank Account Number,Deposit Amount,Ledger Amount,Effective Date,Credit or Debit,Warehouse ID,Description,Individual Name,Company Description
+TEST Let Pam, Inc,C504732,TEST Let Pam, Inc,40050473237,,79815061,,123456780,*****0000,244.90,123.45,2024-10-10,C,608402915,Return Item,,
+TEST Let Pam, Inc,C504732,TEST Let Pam, Inc,40050473237,,79815331,,123456780,*****0000,244.90,123.45,2024-10-10,C,608402915,Return Item,,
+TEST Let Pam, Inc,C504732,TEST Let Pam, Inc,40050473237,,80096519,,123456780,*****0000,244.90,1.00,2024-10-10,C,608402915,Return Item,,
+TEST Let Pam, Inc,C504732,TEST Let Pam, Inc,40050473237,,80096520,,123456780,*****0000,244.90,-1.00,2024-10-10,D,608402915,Return Item,,
+TEST Let Pam, Inc,C504732,TEST Let Pam, Inc,40050473237,,80468989,,123456780,*****0000,244.90,-2.00,2024-10-10,D,608402915,Return Item,,

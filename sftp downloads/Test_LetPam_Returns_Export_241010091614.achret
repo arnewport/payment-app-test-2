@@ -1,0 +1,6 @@
+Location ID,Return ID,ABA,Account Number,Individual Name,Amount,Credit/Debit Indicator,Transaction Code,Creation Date,Return Reason,Return Reason Description,Individual ID Number,Original Trace Number,NOC - Corrected Data
+40050473237,788228,011000015,1029384756,FIRST LAST,123.45,C,21,20241009,R03,No Account/Unable to Locate Account,,1,,
+40050473237,788229,011000015,1029384756,FIRST LAST,2.00,D,26,20241009,R10,Customer Advises Originator is Not Authorized or Not Known,,1,,
+40050473237,788227,011000015,1029384756,FIRST LAST,123.45,C,21,20241009,R02,Account Closed,,1,,
+40050473237,788230,011000015,1029384756,FIRST LAST,1.00,C,21,20241009,R06,Returned per ODFI's Request,,1,,
+40050473237,788226,011000015,1029384756,FIRST LAST,1.00,D,26,20241009,R01,Insufficient Funds,,1,,
